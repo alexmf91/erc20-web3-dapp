@@ -21,33 +21,23 @@ Sigue estos pasos para configurar un nuevo proyecto de React con Vite:
   npm create vite@latest . -- --template react
   ```
 
-2. **Manejo de directorio no vacío**:
-
-- Si tu terminal muestra el siguiente mensaje:
-
-  ```bash
-  ✔ Current directory is not empty. Please choose how to proceed:
-  ```
-
-  Elige la opción: Ignore files and continue (Ignorar archivos y continuar)
-
-3. Instalamos las dependencias.
+2. Instalamos las dependencias.
 
    ```bash
    npm install
    ```
 
-4. Ejecutamos la app de muestra para comprobar que funciona correctamente.
+3. Ejecutamos la app de muestra para comprobar que funciona correctamente.
 
    ```bash
    npm run dev
    ```
 
-5. Comprueba que se ha ejecutado correctamente en el servidor local. Por defecto, Vite utiliza el puerto 5173
+4. Comprueba que se ha ejecutado correctamente en el servidor local. Por defecto, Vite utiliza el puerto 5173
 
 - Abre tu navegador y visita [http://localhost:5173/](http://localhost:5173/)
 
-6. Ahora que hemos comprobado que todo funciona correctamente, podemos parar el servidor y seguir preparando nuestra dapp.
+5. Ahora que hemos comprobado que todo funciona correctamente, podemos parar el servidor y seguir preparando nuestra dapp.
 
 # Personalización de la App: Título y Favicon
 
