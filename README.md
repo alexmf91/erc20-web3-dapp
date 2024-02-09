@@ -223,7 +223,7 @@ Seguimos las instrucciones de connectkit para la instalación y configuración d
 
 Documentación oficial: https://docs.family.co/connectkit/getting-started
 
-Nota: Debido a una reciente y significativa actualización que modifica sustancialmente la configuración inicial, se deberá consular en la documentación de versiones anteriores:
+Nota: Debido a una reciente y significativa actualización que modifica sustancialmente la configuración inicial, se deberá consultar la documentación de versiones anteriores:
 
   - Documentación oficial version 1.5 ConnectKit: https://web.archive.org/web/20230929142557/https://docs.family.co/connectkit/getting-started
   - Documentación oficial version anterior Wagmi: https://0.6.x.wagmi.sh/react/getting-started
