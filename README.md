@@ -231,7 +231,7 @@ Nota: Debido a una reciente y significativa actualización que modifica sustanci
 1. **Instalación de connectkit y sus dependencias**
 
    ```bash
-   npm install connectkit@^1.5.3 viem@^1.20.0 wagmi@^1.4.12
+   npm install connectkit@1.5.3 viem@1.20.0 wagmi@1.4.12
    ```
    
 
